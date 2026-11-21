@@ -57,5 +57,7 @@ Logistic Regression achieved the highest accuracy:
 ```
 
 ## Authors
+
 **Muhesena Nasiha Syeda**
+&
 **Souvik Ahmed**
